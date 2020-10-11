@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f9269fac3a8e038409dda01583bc758b
+  - enabled: 1
+    path: Assets/Scenes/RaceScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Champion.unity
+    guid: a01c2367aaad3a942acdd61f6a642616
+  - enabled: 1
+    path: Assets/Scenes/FirstPlace.unity
+    guid: 278d3ef2a2cd1314e864569f2466a0c6
+  - enabled: 1
+    path: Assets/Scenes/SecondPlace.unity
+    guid: 6e2cacce52836a14d83ede7ff5a69d41
+  - enabled: 1
+    path: Assets/Scenes/ThirdPlace.unity
+    guid: 81265a6f3887c9249bfa3f9835ac566a
   m_configObjects: {}
